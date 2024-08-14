@@ -4,6 +4,9 @@ In this video, I’ll show you how to build an Automatic WhatsApp Messenger usin
 
 In this tutorial, we will:
 - Set up the environment and install required libraries.
+  ```python
+  pip install pywhatkit
+  ```
 - Utilize the pywhatkit library to send messages through WhatsApp.
 - Implement code to schedule and send messages automatically.
 - Discuss how to customize and extend the functionality for various use cases.
