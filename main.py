@@ -1,6 +1,7 @@
 import pywhatkit as w
+from number import phone_number
 
-phone_number = '+911234567890'
+# phone_number = '+911234567890'
 msg = 'hello'
 hour = 10
 minutes = 27
